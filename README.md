@@ -22,6 +22,12 @@ https://github.com/Desponark/Paper-Marbling/assets/129955348/856b860c-6935-4602-
 ## How does it work?
 All ink drops are made up of a circle of points. Those points get pushed away whenever a new ink drop is added.
 
+For drawing the shapes sfml is used:
+<br> https://www.sfml-dev.org/
+
+More specifically the TriangleFan
+<br> https://www.sfml-dev.org/tutorials/2.6/graphics-vertex-array.php
+
 ## How to use
 - Left mouse button to add one ink drop
 - Right mouse button to add ink continuously
